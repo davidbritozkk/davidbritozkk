@@ -17,7 +17,7 @@ Sou um desenvolvedor de software dedicado a projetar e construir sistemas eficie
 * **Dados e Automação:** Python, Pandas
 * **Banco de Dados:** MySQL, PostgreSQL
 * **Geotecnologias:** QGIS, GeoServer
-* **Ferramentas e Práticas:** Git, GitHub, Docker, Desenvolvimento de APIs Restful
+* **Ferramentas e Práticas:** Git, GitHub, Docker, Desenvolvimento de APIs Restful, Padrões de Projeto, SOLID.
 
 ## Como me encontrar
 
